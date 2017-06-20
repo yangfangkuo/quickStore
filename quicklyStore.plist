@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.kuaimall.com/ios_v/kuaimall1.0.0.ipa</string>
+					<string>http://106.38.57.68:8080/resources/apkStore/100001/iOS/com.cetc.diankeBI.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.QuicklyStore.zqsh</string>
+				<string>com.cetc.diankeBI</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
