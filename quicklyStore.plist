@@ -11,15 +11,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://test.quarkdata.cn:80/resources/apkStore/100001/iOS/com.thundersoft.emm_220.ipa</string>
+					<string>http://test.quarkdata.cn:80/resources/apkStore/100001/iOS/cn.HangZhouAipu.bigantIM5_23.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.thundersoft.emm</string>
+				<string>cn.HangZhouAipu.bigantIM5</string>
 				<key>bundle-version</key>
-				<string>2.2.0</string>
+				<string>2.3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
