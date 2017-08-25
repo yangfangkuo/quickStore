@@ -13,6 +13,14 @@
 					<key>url</key>
 					<string>https://dl.easemob.com/downloads/CustomerSystem-ios.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<string>NO<string>
+					<key>url</key>
+					<string>https://dl.easemob.com/downloads/CustomerSystem-ios.ipa</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -23,7 +31,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>大蚂蚁5</string>
+				<string>环信客服Demo</string>
 			</dict>
 		</dict>
 	</array>
